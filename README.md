@@ -1,4 +1,5 @@
 # Todo-app
+  Todo app to manage your projects
 
 ## Vuejs and Vuetify
 
