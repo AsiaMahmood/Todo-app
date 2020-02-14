@@ -1,4 +1,8 @@
-# todo-app
+# Todo-app
+
+## Vuejs and Vuetify
+
+ [Live Demo](https://projects-todo-a890d.firebaseapp.com)
 
 ## Project setup
 ```
