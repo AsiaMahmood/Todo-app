@@ -28,7 +28,7 @@
           <v-avatar size="100">
             <img src="/avator-4.jpg">
           </v-avatar>
-          <p class="headline secondary--text mt-3 pr-8">احمد</p>
+          <p class="headline secondary--text mt-3 pr-8">اسيا محمود احمد</p>
         </v-flex>
         <v-flex class="mt-4 mb-3">
           <Popup />
